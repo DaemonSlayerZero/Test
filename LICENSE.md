@@ -1,3 +1,3 @@
 # License
 
-Another example.
+Another example of the license file.
