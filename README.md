@@ -1,6 +1,8 @@
 # Test Reporisory
 
-![test](.github/images/test.png)
+![test](readme/images/logo.png)
+
+<img align="left" width="110" height="110" src="readme/images/logo.png">
 
 Testing GitHub Repository.
 
